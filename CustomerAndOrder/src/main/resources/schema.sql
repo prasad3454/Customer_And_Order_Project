@@ -1,0 +1,7 @@
+--CREATE TABLE IF NOT EXISTS customer_order
+--(
+--    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+--    name VARCHAR(255),
+--    alteremail VARCHAR(255),
+--    password VARCHAR(255),
+--);
